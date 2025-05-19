@@ -43,7 +43,7 @@ def main():
 
     # Sidebar
     with st.sidebar:
-        st.image("https://cdn.capsulcn.com/Content/Images/uploaded/ZOLGENSMA_logo.png", width=150)
+        st.image("https://www.zolgensma.com/_next/static/media/logo.eb49a1a6.svg", width=150)
         st.markdown("### About This Survey")
         st.markdown("This tool collects data on SMA gene therapy prescribing practices to categorize HCPs.")
         st.markdown("### HCP Categories")

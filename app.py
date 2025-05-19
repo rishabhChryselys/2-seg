@@ -104,7 +104,7 @@ def main():
         st.markdown("---")
 
         # Q4
-        st.subheader("Q4: Please state whether you have expeirence with Zolgensma IV")
+        st.subheader("Q4: Please state whether you have experience with Zolgensma IV")
         q4_answer = st.radio("Zolgensma IV Experience", [
             "I have experience prescribing Zolgensma IV",
             "I have limited to no experience prescribing Zolgensma IV"

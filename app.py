@@ -15,7 +15,7 @@ def show_welcome_screen():
     with welcome_container:
         col1, col2, col3 = st.columns([1, 2, 1])
         with col2:
-            st.image("https://cdn.capsulcn.com/Content/Images/uploaded/ZOLGENSMA_logo.png", width=200)
+            st.image("https://www.zolgensma.com/_next/static/media/logo.eb49a1a6.svg", width=200)
             st.title("Welcome to the Gene Therapy HCP Typing Tool")
             st.markdown("""
             ### Purpose of this Tool

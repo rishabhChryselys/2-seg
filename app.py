@@ -91,7 +91,7 @@ def main():
 
         # Q2
         st.subheader('Q2: Please state your agreement with "As a one-time treatment, I expect gene therapy to provide long-term benefits"')
-        q2_answer = st.radio("Agreement Level", ["I Agree", "I am Neutral", "I Disagree"], index=None)
+        q2_answer = st.radio("Agreement Level", ["I Agree", "I Am Neutral", "I Disagree"], index=None)
         input_data['Q2'] = q2_answer
 
         st.markdown("---")

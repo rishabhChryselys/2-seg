@@ -1,0 +1,325 @@
+﻿Q1_0,Q1_1,Q2,Q3,Q4,Q5,Predicted Segment,Prediction Score
+Satisfied,Satisfied,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Satisfied,Satisfied,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Satisfied,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Satisfied,Satisfied,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Satisfied,Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Satisfied,Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Satisfied,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Satisfied,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Satisfied,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Satisfied,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Satisfied,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Satisfied,Satisfied,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Satisfied,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Satisfied,Satisfied,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Satisfied,Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Satisfied,Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Satisfied,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Satisfied,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Satisfied,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Satisfied,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Satisfied,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Satisfied,Satisfied,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Satisfied,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Satisfied,Satisfied,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Satisfied,Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Satisfied,Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Satisfied,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Satisfied,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Satisfied,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Satisfied,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Neutral,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Satisfied,Neutral,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Satisfied,Neutral,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,1
+Satisfied,Neutral,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Neutral,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Satisfied,Neutral,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Satisfied,Neutral,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,1
+Satisfied,Neutral,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Neutral,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Satisfied,Neutral,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Satisfied,Neutral,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Neutral,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Neutral,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Neutral,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Neutral,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Satisfied,Neutral,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Satisfied,Neutral,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Neutral,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Neutral,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Neutral,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Neutral,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Satisfied,Neutral,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Neutral,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Satisfied,Not Satisfied,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Satisfied,Not Satisfied,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Satisfied,Not Satisfied,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,1
+Satisfied,Not Satisfied,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Not Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Satisfied,Not Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Satisfied,Not Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,1
+Satisfied,Not Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Satisfied,Not Satisfied,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Satisfied,Not Satisfied,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Satisfied,Not Satisfied,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Not Satisfied,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Not Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Not Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Not Satisfied,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Satisfied,Not Satisfied,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Satisfied,Not Satisfied,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Not Satisfied,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Not Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Satisfied,Not Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Satisfied,Not Satisfied,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Satisfied,Not Satisfied,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Satisfied,Not Satisfied,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Neutral,Satisfied,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Neutral,Satisfied,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Neutral,Satisfied,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Neutral,Satisfied,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Neutral,Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Neutral,Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Neutral,Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Neutral,Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Neutral,Satisfied,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Neutral,Satisfied,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Neutral,Satisfied,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Neutral,Satisfied,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Neutral,Satisfied,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Neutral,Satisfied,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Neutral,Satisfied,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Neutral,Satisfied,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Neutral,Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Neutral,Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Neutral,Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Neutral,Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Neutral,Satisfied,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Neutral,Satisfied,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Neutral,Satisfied,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Neutral,Satisfied,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Neutral,Satisfied,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Neutral,Satisfied,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Neutral,Satisfied,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Neutral,Satisfied,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Neutral,Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Neutral,Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Neutral,Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Neutral,Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Neutral,Satisfied,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Neutral,Satisfied,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Neutral,Satisfied,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Neutral,Satisfied,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Neutral,Neutral,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Neutral,Neutral,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Neutral,Neutral,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Neutral,Neutral,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Neutral,Neutral,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Neutral,Neutral,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Neutral,Neutral,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Neutral,Neutral,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Neutral,Neutral,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Neutral,Neutral,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Neutral,Neutral,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Neutral,Neutral,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Neutral,Neutral,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Neutral,Neutral,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Neutral,Neutral,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Neutral,Neutral,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Neutral,Neutral,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Neutral,Neutral,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Neutral,Neutral,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Neutral,Neutral,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Neutral,Neutral,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Neutral,Neutral,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Neutral,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Neutral,Not Satisfied,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Neutral,Not Satisfied,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Neutral,Not Satisfied,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Neutral,Not Satisfied,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Neutral,Not Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Neutral,Not Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.75
+Neutral,Not Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Neutral,Not Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Neutral,Not Satisfied,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Neutral,Not Satisfied,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Neutral,Not Satisfied,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Neutral,Not Satisfied,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Neutral,Not Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Neutral,Not Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Neutral,Not Satisfied,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Neutral,Not Satisfied,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Neutral,Not Satisfied,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Neutral,Not Satisfied,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Neutral,Not Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Neutral,Not Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Neutral,Not Satisfied,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Neutral,Not Satisfied,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Neutral,Not Satisfied,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Not Satisfied,Satisfied,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Not Satisfied,Satisfied,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Not Satisfied,Satisfied,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Not Satisfied,Satisfied,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Not Satisfied,Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Not Satisfied,Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Not Satisfied,Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Not Satisfied,Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Not Satisfied,Satisfied,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Satisfied,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Satisfied,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Satisfied,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Satisfied,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Not Satisfied,Satisfied,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Not Satisfied,Satisfied,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Not Satisfied,Satisfied,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Not Satisfied,Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Not Satisfied,Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Not Satisfied,Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Not Satisfied,Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Not Satisfied,Satisfied,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Satisfied,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Satisfied,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Satisfied,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Satisfied,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Not Satisfied,Satisfied,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Not Satisfied,Satisfied,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Not Satisfied,Satisfied,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Not Satisfied,Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Not Satisfied,Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Not Satisfied,Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.83
+Not Satisfied,Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,1
+Not Satisfied,Satisfied,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Satisfied,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Satisfied,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Satisfied,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Neutral,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Neutral,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Neutral,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Neutral,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Neutral,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Neutral,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Neutral,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Neutral,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Neutral,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Not Satisfied,Neutral,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Not Satisfied,Neutral,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Neutral,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Neutral,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Neutral,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Neutral,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Not Satisfied,Neutral,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Not Satisfied,Neutral,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Neutral,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Neutral,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Neutral,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Neutral,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Not Satisfied,Neutral,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Neutral,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Not Satisfied,Not Satisfied,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Not Satisfied,I Agree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Not Satisfied,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Not Satisfied,I Agree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Not Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Not Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.5
+Not Satisfied,Not Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Not Satisfied,I Agree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Not Satisfied,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Agree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Not Satisfied,Not Satisfied,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Agree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Not Satisfied,Not Satisfied,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Am Neutral,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Not Satisfied,I Am Neutral,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Not Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Not Satisfied,I Am Neutral,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Not Satisfied,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Am Neutral,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Not Satisfied,Not Satisfied,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Am Neutral,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Not Satisfied,Not Satisfied,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Disagree,Mostly Efficacy,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Not Satisfied,I Disagree,Mostly Efficacy,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Not Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Not Satisfied,I Disagree,"Balance of Efficacy, Safety, Dosing",I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Early Adopter,0.6
+Not Satisfied,Not Satisfied,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Disagree,Mostly Dosing,I have limited to no experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57
+Not Satisfied,Not Satisfied,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,Yes my institute is capable in administering Gene Therapy,Wait-n-See Pragmatics,1
+Not Satisfied,Not Satisfied,I Disagree,Mostly Dosing,I have experience prescribing Zolgensma IV,No my institute is not capable of administering Gene Therapy,Wait-n-See Pragmatics,0.57

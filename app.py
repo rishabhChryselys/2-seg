@@ -130,7 +130,7 @@ def main():
             st.error("Please answer all questions before submitting.")
         else:
             try:
-                excel_df = pd.read_excel("data.xlsx", sheet_name="Sheet2")
+                excel_df = pd.read_csv("data.csv")
             except Exception as e:
                 st.error(f"Error reading Excel file: {e}")
                 return
